@@ -1,0 +1,54 @@
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.name-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.div-lenght {
+    width: 50%;
+    padding-left: 2%;
+    text-align: justify;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+.div-lenght img {
+    width: 80%;
+    border-radius: 40%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 550;
+    border-radius: 5px;
+}
+
+.dream-header {
+    color: rgba(241, 173, 26, 0.89);
+}
+
+.dream-big {
+    display: flex;
+    text-align: justify;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
