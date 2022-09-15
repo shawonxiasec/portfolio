@@ -74,12 +74,14 @@ body {
     border-left: 7px solid;
     border-image: linear-gradient(purple tomato);
     border-image-slice: 1;
+    border-radius: 5px;
 }
 
 #experience-border2 {
     border-left: 7px salmon;
     border-image: linear-gradient(blue cyan);
     border-image-slice: 1;
+    border-radius: 5px;
 }
 
 .experience-list p {
