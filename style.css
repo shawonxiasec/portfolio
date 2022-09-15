@@ -60,3 +60,38 @@ body {
 .experience-section {
     margin-top: 150px;
 }
+
+.experience-list {
+    width: 40%;
+    padding-left: 2%;
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 20px gray;
+}
+
+#experience-border {
+    border-left: 7px solid;
+    border-image: linear-gradient(purple tomato);
+    border-image-slice: 1;
+}
+
+#experience-border2 {
+    border-left: 7px salmon;
+    border-image: linear-gradient(blue cyan);
+    border-image-slice: 1;
+}
+
+.experience-list p {
+    margin-right: 15px;
+}
+
+.experience-section {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+footer p {
+    text-align: center;
+}
