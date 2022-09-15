@@ -14,7 +14,7 @@ body {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 150px;
 }
@@ -51,4 +51,12 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.for-paragraph {
+    margin-right: 21%;
+}
+
+.experience-section {
+    margin-top: 150px;
 }
